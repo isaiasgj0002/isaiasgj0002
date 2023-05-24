@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaiasgj0002
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning software engenering
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on app creations
 - 📫 How to reach me ...
 
