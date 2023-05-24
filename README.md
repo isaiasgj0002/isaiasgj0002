@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isaiasgj0002
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on app creations
+- 💞️ I’m looking to collaborate on development of web and movile apps
 - 📫 How to reach me ...
 
 <!---
