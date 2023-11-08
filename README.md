@@ -38,6 +38,8 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/android.png"></code> Android Studio
 
+<code><img height="20" src="https://img.icons8.com/nolan/96/x.png"></code> Xamarin.Forms
+
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 <img src="https://github-readme-stats.vercel.app/api?username=isaiasgj0002&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
