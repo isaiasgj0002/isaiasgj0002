@@ -10,8 +10,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
+- 👨🏽‍💻 I’m currently studying software engineering with AI at SENATI
+- 🌱 I’m currently studying computer science at Universidad Continental
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [isaiasguzman863@gmail.com](mailto:isaiasguzman863@gmail.com).
 
@@ -22,14 +22,21 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
 
-<code><img height="20" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png"></code> Java
+<code><img height="20" src="https://img.icons8.com/nolan/96/cup.png"></code> Java
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/php.png"></code> PHP
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/cs.png"></code> C#
 
+<code><img height="20" src="https://img.icons8.com/nolan/96/js.png"></code> JavaScript
+
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
+<code><img height="20" src="https://img.icons8.com/nolan/96/laravel.png"></code> Laravel
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/a.png"></code> Angular
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/android.png"></code> Android Studio
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
