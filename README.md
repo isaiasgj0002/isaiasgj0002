@@ -32,8 +32,7 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/html.png"></code> HTML
 
-<code>![image](https://github.com/isaiasgj0002/isaiasgj0002/assets/98565291/a09ddb80-26d1-4d14-b1ba-5239c2cb3faf)
-</code> CSS
+<code>![image](https://github.com/isaiasgj0002/isaiasgj0002/assets/98565291/a5102228-15a5-4103-bc09-cba7227f0c6b)</code> CSS
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/js.png"></code> JavaScript
 
