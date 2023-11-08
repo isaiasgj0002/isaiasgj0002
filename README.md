@@ -4,7 +4,7 @@ I am Isaias Guzmán from Cusco, Peru who is a software developer, always learnin
 
 - 😄 Pronouns: He/him
 
-![Isaias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaiasgj0002&show_icons=true&include_all_commits=true)
+![Isaias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaiasgj0002&show_icons=true&include_all_commits=true)
 
 
 ### Programming Languages 🌐
