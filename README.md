@@ -22,8 +22,10 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
+<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C#
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
+
+<code><img height="20" src="[https://img.icons8.com/nolan/96/sql.png](https://img.icons8.com/nolan/96/php.png)"></code> PHP
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
