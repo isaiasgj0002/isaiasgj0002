@@ -14,7 +14,7 @@
 - 🎓 I’m currently studying software engineering with AI at SENATI
 - 🎓 I’m currently studying computer science at Universidad Continental
 - 💬 Ask me about anything, I love to answer!
-- My specialties are web and movile development
+- 💻 My specialties are web and movile development
 - 📫 Email me at [isaiasguzman863@gmail.com](mailto:isaiasguzman863@gmail.com).
 
 
