@@ -30,6 +30,11 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/cs.png"></code> C#
 
+<code><img height="20" src="https://img.icons8.com/nolan/96/html.png"></code> HTML
+
+<code>![image](https://github.com/isaiasgj0002/isaiasgj0002/assets/98565291/a09ddb80-26d1-4d14-b1ba-5239c2cb3faf)
+</code> CSS
+
 <code><img height="20" src="https://img.icons8.com/nolan/96/js.png"></code> JavaScript
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
