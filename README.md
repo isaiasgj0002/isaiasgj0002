@@ -1,34 +1,32 @@
-### Hi there 👋
+<h2 title="hehehe"> Hey 👋, I'm Isaias!</h2>
 
-I am Isaias Guzmán from Cusco, Peru who is a software developer, always learning new things, ready for discussions and making new projects, create web apps, movile apps, etc.
+<a href="https://www.linkedin.com/in/isaias-guzmán-jordán-06777a275/">
+  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<br />
+<br />
 
-- 😄 Pronouns: He/him
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-![Isaias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaiasgj0002&show_icons=true&include_all_commits=true)
+**About Me!**
+
+- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
+- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [isaiasguzman863@gmail.com](mailto:isaiasguzman863@gmail.com).
 
 
-### Programming Languages 🌐
 
-- Know/Using
+**Languages and Tools:**  
 
-| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="28">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  |
-|---|---|---|---|---|---|
 
-- Learning
+<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
-|---|---|---|
+<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
+<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
-### Tools 🛠️
+<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
-- Know/Using
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="aseprite logo" width="24">](https://www.aseprite.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gimp.png" alt="gimp logo" width="24">](https://www.gimp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | WSL | many more...
-|---|---|---|---|---|---|---|---|---|---|
-
-- Learning
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="26">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| many more...
-|---|---|---|---|---|---|
-
-Last Edited on: 30/08/2020
+<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
