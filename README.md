@@ -32,7 +32,7 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/html.png"></code> HTML
 
-<code>![image](https://github.com/isaiasgj0002/isaiasgj0002/assets/98565291/a5102228-15a5-4103-bc09-cba7227f0c6b)</code> CSS
+<code><img height="20" src="https://img.icons8.com/nolan/96/bootstrap.png"></code> Bootstrap
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/js.png"></code> JavaScript
 
@@ -41,6 +41,8 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/laravel.png"></code> Laravel
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/a.png"></code> Angular
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/api.png"></code> Web Api
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/android.png"></code> Android Studio
 
