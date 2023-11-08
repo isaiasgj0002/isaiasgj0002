@@ -22,10 +22,14 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C#
+<code><img height="20" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png"></code> Java
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/php.png"></code> PHP
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/cs.png"></code> C#
+
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
-<code><img height="20" src="[https://img.icons8.com/nolan/96/sql.png](https://img.icons8.com/nolan/96/php.png)"></code> PHP
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
