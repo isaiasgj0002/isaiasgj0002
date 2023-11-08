@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hey 👋, I'm Isaias!</h2>
+<h2 title="hehehe"> Hey 👋, I'm Isaias Guzman from Cusco, Peru!</h2>
 
 <a href="https://www.linkedin.com/in/isaias-guzmán-jordán-06777a275/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
