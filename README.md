@@ -46,6 +46,8 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/android.png"></code> Android Studio
 
+<code><img height="20" src="https://img.icons8.com/nolan/96/json.png"></code> Firebase
+
 <code><img height="20" src="https://img.icons8.com/nolan/96/x.png"></code> Xamarin.Forms
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
